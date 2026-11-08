@@ -37,6 +37,7 @@ export function Timer({ onWorkComplete, onBreakComplete, onStateChange, duration
   
   return (
     <div className={`timer ${mode}`}>
+      <p>{mode === 'work' ? '집중 시간' : '휴식 시간'}</p>
       <div className="timer-display">{formattedTime}</div>
       <div className="timer-controls">
         <button onClick={reset} className="btn btn-icon" aria-label={t('timer.reset')}>

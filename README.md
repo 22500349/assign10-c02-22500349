@@ -54,10 +54,25 @@ const reset = useCallback(() => {
 ### 4-1.App.jsx
 ![before](assets/App_before.png)
 ![after](assets/App_after.png)
+타이머 위에 제목으로로 이 타이머가 무슨 타이머 인지 적었습니다
 
-### 4-2
+### 4-2 Timer.jsx
+![before](assets/write_before.png)
+![after](assets/write_after.png)
+이후 지금 타이머가 무슨 모드인지 알수 있도록 아래에 집중 시간,휴식 시간 이 뜨도록 하였습니다
 
-### 4-3
+### 4-3 index.css
+![before](assets/right_before.png)
+![after](assets/right_after.png)
+![before](assets/App_after.png)
+![after](assets/dark_after.png)
+기본 모드와 다크모드의 색상을 각각 연한 파란색과 진한 파란색으로 변경 했습니다
+
+### 4-4 Timer.css
+![before](assets/button_before.png)
+![after](assets/button_after.png)
+재생 버튼 좌우의 되감기,넘기기 버튼에 색을 채웠습니다
+
 
 
 ## 5.Deployment
