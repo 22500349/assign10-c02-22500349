@@ -82,6 +82,7 @@ function App() {
       </div>
 
       <main className="main-content">
+        <h1 className="app-title">나의 공부 타이머</h1>
         <Timer 
           onWorkComplete={handleWorkComplete}
           onBreakComplete={handleBreakComplete}

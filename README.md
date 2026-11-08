@@ -51,6 +51,15 @@ const reset = useCallback(() => {
 
 ## 4.Customizing
 
+### 4-1.App.jsx
+![before](assets/App_before.png)
+![after](assets/App_after.png)
+
+### 4-2
+
+### 4-3
+
+
 ## 5.Deployment
 
 ## 6.Weekly Review:
